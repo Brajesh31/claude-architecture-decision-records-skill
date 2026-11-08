@@ -30,3 +30,7 @@ Ask your AI coding assistant to use **Architecture Decision Records** when handl
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+## Additional Resources
+
+Added `docs/adr/template.md` and `docs/adr/README.md` to support consistent ADR creation, indexing, and lifecycle management.
